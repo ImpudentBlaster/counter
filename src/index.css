@@ -1,0 +1,15 @@
+.counter{
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.counter button {
+    padding: 1rem;
+    font-size: 2rem;
+}
+
+h1{
+
+    text-align: center;
+}
